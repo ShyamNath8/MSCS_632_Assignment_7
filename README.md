@@ -26,7 +26,7 @@ How to Run the Programs
 
 Compile
 
- stats.c -o stats
+gcc stats.c -o stats
 
 Run
 
